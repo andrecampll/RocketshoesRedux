@@ -1,4 +1,4 @@
-#Thu Mar 05 15:57:28 BRT 2020
-base.0=/home/andre/bootcamp2020/rocketshoes/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Sun Mar 08 18:19:08 BRT 2020
+base.0=/home/andre/bootcamp2020/RocketshoesMobile/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

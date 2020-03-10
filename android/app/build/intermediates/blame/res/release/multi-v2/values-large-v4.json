@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/andre/bootcamp2020/rocketshoes/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "outputFile": "/home/andre/bootcamp2020/RocketshoesMobile/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
                     "source": "/home/andre/.gradle/caches/transforms-2/files-2.1/8942d0e3e0f8b314f0f65d7adf2e7281/res/values-large-v4/values-large-v4.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/andre/bootcamp2020/rocketshoes/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rUS/values-es-rUS.xml",
+            "outputFile": "/home/andre/bootcamp2020/RocketshoesMobile/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
                     "source": "/home/andre/.gradle/caches/transforms-2/files-2.1/040eb44fc35a704029ab8e00f6e49796/res/values-es-rUS/values-es-rUS.xml",

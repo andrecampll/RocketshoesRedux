@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/andre/bootcamp2020/rocketshoes/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
+            "outputFile": "/home/andre/bootcamp2020/RocketshoesMobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
             "map": [
                 {
                     "source": "/home/andre/.gradle/caches/transforms-2/files-2.1/43078b9c753756ddba48fafac20068c2/res/values-iw/values-iw.xml",
