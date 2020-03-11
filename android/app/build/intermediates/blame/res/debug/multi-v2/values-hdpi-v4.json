@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/andre/bootcamp2020/RocketshoesMobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "/home/optimus/RocketshoesMobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/home/andre/.gradle/caches/transforms-2/files-2.1/040eb44fc35a704029ab8e00f6e49796/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "/home/optimus/.gradle/caches/transforms-2/files-2.1/a2f2f07510be7123c11692c9bacfb422/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

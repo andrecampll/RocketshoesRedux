@@ -14,6 +14,11 @@ export const Logo = styled.Image`
   width: 185px;
 `;
 
+export const Quantity = styled.Text`
+  font-size: 12px;
+  color: #7159c1;
+`;
+
 export const BasketContainer = styled.TouchableOpacity`
 
 `;

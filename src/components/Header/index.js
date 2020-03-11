@@ -4,9 +4,9 @@ import { connect } from 'react-redux';
 
 import Icon from 'react-native-vector-icons/MaterialIcons';
 
-import { Logo, BasketContainer, HeaderContent } from './styles';
+import { Logo, BasketContainer, HeaderContent, Quantity} from './styles';
 
-function Header({ cart }) {
+function Header({ cartSize }) {
   return (
     <HeaderContent>
       <Logo source={logo}/>
@@ -18,5 +18,5 @@ function Header({ cart }) {
 }
 
 export default connect(state =>({
-  cart: state.cart
+  cartSize: state.cart.length,
 }))(Header);

@@ -1,4 +1,5 @@
 import React from 'react';
+import { connect } from 'react-redux';
 
 import {
   Container,
@@ -24,7 +25,7 @@ import {
 
 import Icon from 'react-native-vector-icons/MaterialIcons';
 
-export default function Cart() {
+function Cart({ cart }) {
   return (
     <Container>
       <ProductTable>
@@ -62,7 +63,7 @@ export default function Cart() {
 
           <SubTotal>R$100,00</SubTotal>
         </ProductController>
-
+        
         <TotalContainer>
           <TotalText>TOTAL</TotalText>
           <TotalAmount>R$1231,00</TotalAmount>
@@ -74,3 +75,9 @@ export default function Cart() {
     </Container>
   );
 }
+
+const mapStateToProps = state => ({
+  cart: state.cart,
+});
+
+export default connect(mapStateToProps)(Cart)

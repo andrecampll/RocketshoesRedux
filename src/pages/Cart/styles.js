@@ -6,22 +6,23 @@ export const Container = styled.View`
   padding: 30px;
   background-color: #191920;
 `;
-
+export const List = styled.FlatList``;
 export const ProductTable = styled.View`
+  flex: 1;
   background: #fff;
   padding: 15px;
   border-radius: 4px;
-  width: 300px;
 `;
 
 export const Product = styled.View`
+  margin-top: 10px;
   flex-direction: row;
   justify-content: space-between;
 `;
 
 export const ProductImage = styled.Image`
-  height: 70px;
-  width: 70px;
+  height: 100px;
+  width: 100px;
   background: #f0f0f0;
   border-radius: 4px;
 `;
@@ -52,8 +53,7 @@ export const ProductControlButton = styled.TouchableOpacity``;
 
 
 export const ProductController = styled.View`
-  width: 270px;
-  height: 40px;
+  max-height: 40px;
   background-color: #ddd;
   border-radius: 4px;
   margin-top: 10px;
@@ -61,6 +61,7 @@ export const ProductController = styled.View`
   justify-content: space-between;
   align-items: center;
   padding: 0 5px 0 5px;
+  flex: 1;
 `;
 
 export const ProductAmount = styled.TextInput`
